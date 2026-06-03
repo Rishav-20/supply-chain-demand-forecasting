@@ -1,0 +1,12 @@
+# Ignore raw and processed data files
+data_raw/
+data_processed/
+
+# Ignore database files
+*.db
+*.sqlite
+
+# Ignore Python environments and caches
+venv/
+__pycache__/
+.ipynb_checkpoints/
